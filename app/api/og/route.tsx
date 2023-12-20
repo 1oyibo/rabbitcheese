@@ -3,8 +3,6 @@ import { ImageResponse } from "next/og";
 // Route segment config
 export const runtime = "edge";
 
-export const contentType = "image/png";
-
 // Image generation
 export async function GET(request: Request) {
   try {
