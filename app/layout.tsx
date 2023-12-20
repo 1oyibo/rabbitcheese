@@ -90,7 +90,7 @@ export default function RootLayout({
               >
                 VTU.ng
               </Link>{" "}
-              for VTU
+              for Virtual top-up
             </p>
           </div>
         </footer>
